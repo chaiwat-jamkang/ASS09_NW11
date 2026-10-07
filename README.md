@@ -9,9 +9,9 @@
 
 ## Prototype Screens
 
-1. Main Menu
-2. Character Selection
-3. Mission Selection
-4. Gameplay
-5. Pause Menu
-6. Exit Confirmation
+1. หน้าเริ่มเกม
+2. หน้าเลือกตัวละคร
+3. หน้าเลือกภารกิจ
+4. หน้า Gameplay
+5. Pause Menu — หยุดชั่วคราว
+6. ยืนยันออกจากภารกิจ
